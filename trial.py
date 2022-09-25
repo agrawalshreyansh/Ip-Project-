@@ -1,0 +1,1 @@
+print('chal ja mere bhai kisi tarah se')
